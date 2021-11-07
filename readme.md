@@ -1,0 +1,1 @@
+Some helpful alfredy workflows for converting newline-separated strings to comma-separated, or space-separated. This is helpful for converting text into a format that can be easily inputted into a REPL.
